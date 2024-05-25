@@ -1,3 +1,12 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# readytogo-module
+Create module package
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+## Usage
+
+```sh
+npx @zitterorg/nesciunt-quas
+```
+
+## Note
+The command creates a template for the module package in the current working directory. Any existing files will stay the same. To ensure the command creates the full template, run it in an empty directory.
+
